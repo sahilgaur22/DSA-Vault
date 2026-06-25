@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FlippedHollowTriangle {
+public class flipped_Hollow_Triangle {
     public static void main(String[] args) {
         // Create scanner to read user input
         Scanner scanner = new Scanner(System.in);
